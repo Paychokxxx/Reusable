@@ -22,9 +22,9 @@ array with all odd numbers from the range [15, 30] including endpoints.
 `square(x: number): number` calculating square of x.
 - Implement function `cube` with signature
 `cube(x: number): number` calculating cube of x.
-- Call `square` and `cube` in loop 0 to 9, pass results to function `average`
+(- Call `square` and `cube` in loop 0 to 9, pass results to function `average`
 on each iteration. Add calculation results to array and return this array from
-function `calculate`.
+function `calculate`.)
 
 Call functions `square` and `cube` in loop, then pass their results to
 function `average`. Print what `average` returns.
